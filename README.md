@@ -1,4 +1,4 @@
-Hi! My name is **Shivam Prakash**, I have created this basic mern stack ecommerce project for learning purpose .
+Hi! My name is **Shivam Prakash**, I have created this Baery Mania mern stack ecommerce project.
 
 # Install Dependencies
 
